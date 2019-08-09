@@ -2976,6 +2976,24 @@ echo -e "${y} SUDAH TERINSTALL.."
 
 ;;
 
+#Install TOOLS mr.cakil
+
+312) git clone https://github.com/mrcakil/Mrcakil
+echo -e "${y} SUDAH TERINSTALL.."
+
+;;
+
+#Install Drak-fb v1.7
+
+313) git clone https://github.com/perijoko14/Dark-fb
+echo -e "${y} SUDAH TERINSTALL.."
+
+;;
+
+314)
+
+
+
 00) echo "AUTHOR:   CyberMan" | lolcat
 echo "xxxxxxxxxxxxxxx tols" | lolcat
 echo "xxxxxxxxxxxxxxx" | lolcat
@@ -2991,3 +3009,4 @@ done
 
 #[xxxxxxxxxx]
 #[CyberMan]
+tutorial bisa wa di 085270067693
